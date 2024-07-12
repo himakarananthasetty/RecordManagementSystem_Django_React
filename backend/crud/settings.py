@@ -58,7 +58,7 @@ MIDDLEWARE = [
 
 CORS_ALLOWED_ORIGINS =[
     'http://localhost:3000',
-    'http://recordmanagementsystem-react.s3-website.us-east-2.amazonaws.com'  
+    'http://recordmanagementsystem-react.s3-website.us-east-2.amazonaws.com',
 ]
 
 ROOT_URLCONF = "crud.urls"
