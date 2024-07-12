@@ -67,4 +67,4 @@ This page is designed to facilitate the addition of new records to the system.
 
 ## Website Hosted Link
 
-You can access the live website at: [Record Management System](http://recordmanagementsystem-react.s3-website.us-east-2.amazonaws.com/)
+You can access the live website at: [Record Management System](http://recordmanagementsystem-react.s3-website.us-east-2.amazonaws.com/) i.e ( http://recordmanagementsystem-react.s3-website.us-east-2.amazonaws.com/ )
