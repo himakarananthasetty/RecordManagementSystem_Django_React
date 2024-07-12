@@ -65,7 +65,7 @@ const Edit = () => {
             <form onSubmit={handleSubmit(submission)}>
                 <Box sx={{ display: 'flex', width: '100%', background: '#0003ff', marginBottom: '10px' }}>
                     <Typography sx={{ marginLeft: '20px', color: '#fff' }}>
-                        Create records
+                        Edit the records
                     </Typography>
                 </Box>
                 <Box sx={{ display: 'flex', width: '100%', boxShadow: 3, padding: 4, flexDirection: 'column' }}>
