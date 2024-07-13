@@ -28,7 +28,10 @@ DEBUG = True
 ALLOWED_HOSTS = [   '3.17.144.153',
     'localhost',
     '127.0.0.1',]
+<<<<<<< HEAD
 
+=======
+>>>>>>> c1fc63dc6470aa4f4dbe56fd66b1437c0f180007
 
 # Application definition
 
@@ -59,7 +62,10 @@ MIDDLEWARE = [
 CORS_ALLOWED_ORIGINS =[
     'http://localhost:3000',
     'http://recordmanagementsystem-react.s3-website.us-east-2.amazonaws.com',
+<<<<<<< HEAD
     'https://d38gztwwel0vi9.cloudfront.net/',
+=======
+>>>>>>> c1fc63dc6470aa4f4dbe56fd66b1437c0f180007
 ]
 
 ROOT_URLCONF = "crud.urls"
