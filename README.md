@@ -42,6 +42,7 @@ The **About** page describes the project, including the tech stack used and the 
 ## Create
 
 The **Create** page features a form that allows users to create a new entry. The form includes fields for:
+
 - Name
 - Start Date
 - End Date
@@ -68,3 +69,7 @@ This page is designed to facilitate the addition of new records to the system.
 ## Website Hosted Link
 
 You can access the live website at: [Record Management System](http://recordmanagementsystem-react.s3-website.us-east-2.amazonaws.com/) i.e ( http://recordmanagementsystem-react.s3-website.us-east-2.amazonaws.com/ )
+
+## Bonus
+
+Amazon Web Services Cloudfront Content Delivery Network, Distribution domain name https://d38gztwwel0vi9.cloudfront.net
