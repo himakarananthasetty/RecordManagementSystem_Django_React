@@ -59,7 +59,7 @@ MIDDLEWARE = [
 CORS_ALLOWED_ORIGINS =[
     'http://localhost:3000',
     'http://recordmanagementsystem-react.s3-website.us-east-2.amazonaws.com',
-    'https://d38gztwwel0vi9.cloudfront.net/',
+    'https://d38gztwwel0vi9.cloudfront.net',
 
 ]
 
